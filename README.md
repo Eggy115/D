@@ -26,3 +26,11 @@ To use the programs in this repository, you can download individual files, copy 
 ```
 git clone https://github.com/Eggy115/D.git
 ```
+
+## License
+
+This repository is licensed under the [GPLv3 license](LICENSE).
+
+## Contributing
+
+Contributions are welcome! If you find a bug or have an idea for a new feature, please submit an issue or pull request. See [Contributing](./CONTRIBUTING.md) for more information.
