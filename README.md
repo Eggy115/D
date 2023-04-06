@@ -1,7 +1,7 @@
 # D
 
 ## Overview
-This repository contains a collection of various different D scripts, snippets, and programs.
+This repository contains a collection of various different D scripts, snippets, and programs. File extension is `.d`.
 
 ## Explanation
 D is a systems programming language created by Walter Bright in 2001. It was designed to be a modern, efficient, and safe programming language that could replace older languages like C and C++. The language includes features like garbage collection, automatic memory management, and support for functional programming paradigms.
