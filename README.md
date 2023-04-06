@@ -29,7 +29,7 @@ git clone https://github.com/Eggy115/D.git
 
 ## License
 
-This repository is licensed under the [GPLv3 license](LICENSE).
+This repository is licensed under the [GPL v3 license](LICENSE).
 
 ## Contributing
 
